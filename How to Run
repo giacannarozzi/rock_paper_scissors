@@ -1,0 +1,10 @@
+# Clone github repo to your computer
+git clone https://github.com/YOURUSERNAME/rock-paper-scissors.git
+
+# Go into the project folder
+cd rock-paper-scissors
+
+# Run the Python file
+python3 rock_paper_scissors.py
+
+# Then enjoy :)
