@@ -1,0 +1,1 @@
+This is a simple Rock, Paper, Scissors game written in Python. The player chooses between rock, paper, or scissors, and the computer randomly picks its choice. The game then compares the results and declares whether the player won, lost, or draw. The score of both computer and the player are kept track of until player quits the game. 
